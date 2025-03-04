@@ -5,3 +5,11 @@ Data Analyst | SQL, Python, Power Bi 📊
 - [SQL](#sql)
 - [Python](#python)
 - [Power Bi](#powerbi)
+
+# SQL
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| | 
+| |  
+| |  
