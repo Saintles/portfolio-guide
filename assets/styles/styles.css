@@ -203,6 +203,7 @@ a:hover {
 }
 
 .content__main-item {
+    margin-top: 20px;
     display: flex;
     line-height: 1.8rem;
     margin-bottom: 1.8rem;
