@@ -1,4 +1,4 @@
-** Create database **
+**Create database**
 ````sql
 create table game_events (
 user_id char(10) not NULL,
