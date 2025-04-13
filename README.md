@@ -5,6 +5,7 @@ Data Analyst | SQL, Python, Power Bi 📊
 - [SQL](#sql)
 - [Python](#python)
 - [Power Bi](#powerbi)
+- [DataLens](#datalens)
 
 # SQL
 
