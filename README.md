@@ -32,7 +32,7 @@ Data Analyst | SQL, Python, Power Bi 📊
 #DataLens
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🎄 [The Business of Celebrating: A Data Case on New Year’s Shopping] (https://github.com/Saintles/DataLens/blob/main/The%20Business%20of%20Celebrating%3A%20A%20Data%20Case%20on%20New%20Year%E2%80%99s%20Shopping.md)| Data analysis, visualization | This case explores seasonal shopping behavior related to New Year celebrations, using sales data to uncover when and how people start preparing for the holiday season.|
+| 🎄 [The Business of Celebrating: A Data Case on New Year’s Shopping](https://github.com/Saintles/DataLens/blob/main/The%20Business%20of%20Celebrating%3A%20A%20Data%20Case%20on%20New%20Year%E2%80%99s%20Shopping.md)| Data analysis, visualization | This case explores seasonal shopping behavior related to New Year celebrations, using sales data to uncover when and how people start preparing for the holiday season.|
 | |  
 | |  
 
